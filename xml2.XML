@@ -1,0 +1,48 @@
+<timetable>
+	<Вторник>
+	<lesson1>
+		<type>Лаб.</type>
+		<time>08:20 - 09:50</time>
+		<evenWeek>yes</evenWeek>
+		<class>305</class>
+		<building>Кронверкский пр., д.49, лит.А</building>
+		<subject>Программирование</subject>
+		<teacher>Шешуков Дмитрий Михайлович</teacher>
+		<lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson1>
+	<lesson2>
+		 <type>Лаб.</type>
+		 <time>10:00 - 11:30</time>
+		 <evenWeek>yes</evenWeek>
+		 <class>305</class>
+		 <building>Кронверкский пр., д.49, лит.А</building>
+		 <subject>Программирование</subject>
+		 <teacher>Шешуков Дмитрий Михайлович</teacher>
+		 <lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson2>
+    </Вторник>
+    <Пятница>
+	<lesson1>
+		<type>Лек.</type>
+		<time>08:20 - 09:50</time>
+		<evenWeek>yes</evenWeek>
+		<class>1405</class>
+		<building>Кронверкский пр., д.49, лит.А</building>
+		<subject>Линейная Алгебра</subject>
+		<teacher>Лапин Иван Александрович</teacher>
+		<lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson1>
+	<lesson2>
+		 <type>Практика</type>
+		<time>10:00 - 11:30</time>
+		<evenWeek>yes</evenWeek>
+		<class>2201</class>
+		<building>Кронверкский пр., д.49, лит.А</building>
+		<subject>Линейная Алгебра</subject>
+		<teacher>Лапин Иван Александрович</teacher>
+		<lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson2>
+    </Пятница>
+
+
+</timetable>

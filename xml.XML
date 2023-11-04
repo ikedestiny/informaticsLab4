@@ -1,0 +1,43 @@
+<timetable>
+	<day>Вторник</day>
+	<lesson1>
+		<type>Лаб.</type>
+		<time>08:20 - 09:50</time>
+		<evenWeek>yes</evenWeek>
+		<class>305</class>
+		<building>Кронверкский пр., д.49, лит.А</building>
+		<subject>Программирование</subject>
+		<teacher>Шешуков Дмитрий Михайлович</teacher>
+		<lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson1>
+	<lesson2>
+		 <type>Лаб.</type>
+		 <time>10:00 - 11:30</time>
+		 <evenWeek>yes</evenWeek>
+		 <class>305</class>
+		 <building>Кронверкский пр., д.49, лит.А</building>
+		 <subject>Программирование</subject>
+		 <teacher>Шешуков Дмитрий Михайлович</teacher>
+		 <lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson2>
+	<lesson3>
+		 <type>Лек.</type>
+		 <time>11:40 - 13:10</time>
+		 <evenWeek>yes</evenWeek>
+		 <class>285</class>
+		 <building>Кронверкский пр., д.49, лит.А</building>
+		 <subject>Информатика</subject>
+		 <teacher>Белозубов Александр Владимирович</teacher>
+		 <lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson3>
+	<lesson4>
+		<type>Лек.</type>
+		<time>13:30 - 15:00</time>
+		<evenWeek>yes</evenWeek>
+		<class>285</class>
+		<building>Кронверкский пр., д.49, лит.А</building>
+		<subject>Дискретная математика</subject>
+		<teacher>Поляков Владимир Иванович</teacher>
+		<lessonFormat>Очно - дистанционный</lessonFormat>
+	</lesson4>
+</timetable>
